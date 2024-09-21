@@ -15,7 +15,7 @@ Model structure.
 ### (3)./Improved_STResnet_dataset.py
 Data loader.
 
-### (3)./Improved_STResnet_train_r.py
+### (4)./Improved_STResnet_train_r.py
 Training process.
 
 ## References
